@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ruizu
 - 👀 I’m interested in music and animation
 - 🌱 I’m currently learning foreign languages 
-- 💞️ I’m looking to collaborate on game appsp
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me my e-mail
 
 <!---
