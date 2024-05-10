@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning foreign languages 
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me my e-mail
-- 🇺🇸 I'm currently located in New Jersey 
+- 🇺🇸 I'm currently located in New Jersey
+ 
 <!🏡 I'm originaly from Philippines
 
 ruizu21/ruizu21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
